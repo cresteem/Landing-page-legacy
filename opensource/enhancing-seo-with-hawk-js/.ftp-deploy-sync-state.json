@@ -1,0 +1,335 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1719202786984,
+    "data": [
+        {
+            "type": "file",
+            "name": "404.html",
+            "size": 2368,
+            "hash": "e59a62fd72c59ec95b57d3a60aec1f6fbcd8821d6a350237fc7e541833e30ba1"
+        },
+        {
+            "type": "folder",
+            "name": "_next"
+        },
+        {
+            "type": "file",
+            "name": "comprehensive-faq-for-hawk-js.html",
+            "size": 69946,
+            "hash": "9c626b836d31d55333f8b5cf5471d8ea002abd4e57bf4458f8ff52f27bd534b8"
+        },
+        {
+            "type": "file",
+            "name": "credential_gindex.png",
+            "size": 11560,
+            "hash": "cc774b62d2d918a75bf58c39febac477367d6e4840c7c65b2fb31566d14825ef"
+        },
+        {
+            "type": "file",
+            "name": "credential_gsc.png",
+            "size": 11950,
+            "hash": "754a0c19e3eeae89d886388e1f4133ba66704374e762eb909c49751d3c961335"
+        },
+        {
+            "type": "file",
+            "name": "effective-indexing-with-hawk-js.html",
+            "size": 47518,
+            "hash": "cbc1b9a7db7083ade13aa3bfc1d78ac32b4765d2a1d6d36642ebf0c9d38c4b1a"
+        },
+        {
+            "type": "file",
+            "name": "enhancing-seo-with-hawk-js-cli.html",
+            "size": 87432,
+            "hash": "361571b1d67e4a490534133e4af595600361cf969c3582a0d1adc5b9964a4bdb"
+        },
+        {
+            "type": "folder",
+            "name": "exploring-hawk-js-api-functions"
+        },
+        {
+            "type": "file",
+            "name": "exploring-hawk-js-api-functions.html",
+            "size": 43048,
+            "hash": "60c09ca8bd35f68a1db3a679ff1b0fac51b74a6f81a0b1f43cf4b55c456b78bd"
+        },
+        {
+            "type": "file",
+            "name": "get-involved-with-hawk-js-open-source.html",
+            "size": 42311,
+            "hash": "a452c7e78244e086ee5837b744cdd538fa0140a32aa00edb00a587c0bc9d1efb"
+        },
+        {
+            "type": "file",
+            "name": "getting-started-with-hawk-js.html",
+            "size": 46676,
+            "hash": "0e54eebbc809c4f65a7d2653aaa6d78622da1d781299a7230896d3014e84d4e2"
+        },
+        {
+            "type": "file",
+            "name": "hawk-js-configuration-settings-guide.html",
+            "size": 66551,
+            "hash": "3bd5cbf1f580fe2dfa0bcd90f8f8934129fe1df5268fa17a837673bd9400cd4b"
+        },
+        {
+            "type": "file",
+            "name": "hawk-js-demonstration-repository.html",
+            "size": 48791,
+            "hash": "b2ed2f154c293d866ea17b99ab9688bf99b7258d2c3a2549aad86f18931eb7af"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 52870,
+            "hash": "0f3cc350c3f4366feae421fe671644edfefc9d5f60fdebd27682a0c3c6d4ed5b"
+        },
+        {
+            "type": "file",
+            "name": "obtaining-google-credentials-for-hawk-js.html",
+            "size": 59430,
+            "hash": "143482de750089b4db1301a191ee925369198351103bcdc780e9fbf463597f53"
+        },
+        {
+            "type": "file",
+            "name": "thumbnail.png",
+            "size": 763509,
+            "hash": "c40f901463e299c437d93d57ab74080be6e643f063b984f51c2edf3bb8149be0"
+        },
+        {
+            "type": "file",
+            "name": "video.html",
+            "size": 38213,
+            "hash": "0d8d49046b02b3216796202ec1cad9d9492e0cad106e981551d9717b23237aaa"
+        },
+        {
+            "type": "folder",
+            "name": "_next/GUVCyBCQH9q2VDeIt1y5w"
+        },
+        {
+            "type": "folder",
+            "name": "_next/static"
+        },
+        {
+            "type": "file",
+            "name": "exploring-hawk-js-api-functions/hawk.html",
+            "size": 56299,
+            "hash": "cf940192cc18d5117c2bd83dd7b9cc1caa215db83502c80a8b3c6b667e3e3608"
+        },
+        {
+            "type": "file",
+            "name": "exploring-hawk-js-api-functions/utils.html",
+            "size": 80332,
+            "hash": "35a634bf661ff33a053a896058e20ddbe2973466425cf0f962b59195f66b7832"
+        },
+        {
+            "type": "file",
+            "name": "exploring-hawk-js-api-functions/hawkstrategy.html",
+            "size": 70805,
+            "hash": "5adc2544ff6a3b9ab2a410641e5a708348b9ca0c6c05006f17606fa06d23eaa0"
+        },
+        {
+            "type": "folder",
+            "name": "_next/static/GUVCyBCQH9q2VDeIt1y5w"
+        },
+        {
+            "type": "folder",
+            "name": "_next/static/chunks"
+        },
+        {
+            "type": "folder",
+            "name": "_next/static/css"
+        },
+        {
+            "type": "folder",
+            "name": "_next/static/media"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/GUVCyBCQH9q2VDeIt1y5w/_buildManifest.js",
+            "size": 2710,
+            "hash": "436470b9f57ccf7888d1b3b3ecdc74be991538baed962f66853d23d9c8a22e8a"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/GUVCyBCQH9q2VDeIt1y5w/_ssgManifest.js",
+            "size": 77,
+            "hash": "6f5b4aa00d2f8d6aed9935b471806bf7acef464d0c1d390260e5fe27f800c67e"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/229-298a57cd28394288.js",
+            "size": 304141,
+            "hash": "ffe06e0fca3d0ce4571065fb33125ad7c257e889f75291244bb33997a7bd25ee"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/739-77135ff4387bfcdb.js",
+            "size": 11226,
+            "hash": "ba550989cb66eaff648e0828b7eda910ab056c057c8e3453ba93f8df51a87097"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/e21e5bbe-6ecf363ba653a455.js",
+            "size": 2430,
+            "hash": "ebfa78b12529ea4c9864193d248755de79f2c4a9c0651aa5bc384c2d2a1ab543"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/framework-ecc4130bc7a58a64.js",
+            "size": 140942,
+            "hash": "761e9329d5dc491a063f81ea1dedaec335826413f3d7a7724d6b9f2ecc5e46f3"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/main-a57c59ffcaad84ea.js",
+            "size": 124849,
+            "hash": "894a7775d11c32843e45ab62509ea50fc4cb7d00b945c11b2715f2ff872c4a99"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/nextra-data-en-US.json",
+            "size": 32130,
+            "hash": "9d909fc8a0042561bfea0b661036dc7bd34115dd53dbbd0e8139e2c4ae0f3287"
+        },
+        {
+            "type": "folder",
+            "name": "_next/static/chunks/pages"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/polyfills-78c92fac7aa8fdd8.js",
+            "size": 91381,
+            "hash": "e903cec1d59e0157bcc7e4ac883ae6f866babb60e4aa01b9485aa096b9722200"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/webpack-ef273be2bc666668.js",
+            "size": 2138,
+            "hash": "c0924977798e472baa3811dd268b527cf0c988e08f3e539abc2e933e8da2a7c6"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/css/445c4173ffc2bf04.css",
+            "size": 69156,
+            "hash": "43f30bcadf198dffbef2ca76076ca5f8dc76f746ae202b5d07dbbb0f48155a35"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/css/927ecd36976b0072.css",
+            "size": 1044,
+            "hash": "7daf397a8ec88bb110e478f17ed6004eea0785713c1abe6dcc0b30cf8bd24a57"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/media/credential_gindex.b69b07c0.png",
+            "size": 11560,
+            "hash": "cc774b62d2d918a75bf58c39febac477367d6e4840c7c65b2fb31566d14825ef"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/media/credential_gsc.1f0a86ae.png",
+            "size": 11950,
+            "hash": "754a0c19e3eeae89d886388e1f4133ba66704374e762eb909c49751d3c961335"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/_app-753213cf38d40131.js",
+            "size": 280,
+            "hash": "f622f147245640f4250ea453f28091fe040349b88944613f37493a538e3c8e16"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/_error-77823ddac6993d35.js",
+            "size": 247,
+            "hash": "52732f04b4fd7a53f21afbafaa6f0dc6fc81225ad3e47dd3e08440e29952fabc"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/comprehensive-faq-for-hawk-js-5e693e97118f59a6.js",
+            "size": 19504,
+            "hash": "49af56b1e749da8630b50faebcc38ddd853f510deba316ed1c2e8823f19cb409"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/effective-indexing-with-hawk-js-962879249f65d2d3.js",
+            "size": 13881,
+            "hash": "c926cc82d9a7cb5d11104c6a532492afa446b73f20f0a0bc8ac3c2ef44994e58"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/enhancing-seo-with-hawk-js-cli-4225daf284e0ca33.js",
+            "size": 27418,
+            "hash": "293c4cc34f0f8b95c536dea91943d66bd5d99d591f1206b65edd877f29cbfc4f"
+        },
+        {
+            "type": "folder",
+            "name": "_next/static/chunks/pages/exploring-hawk-js-api-functions"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/exploring-hawk-js-api-functions-208ec229091e1ed7.js",
+            "size": 10951,
+            "hash": "dba56e069cdaf510a18d5f801e06952a97e9bcdf9a6c8fd41cdd5659c592387f"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/get-involved-with-hawk-js-open-source-ec5efee90c38511d.js",
+            "size": 10978,
+            "hash": "ad694e97d54ef89160906046b81d1b5a3b2e7123ece6f07f1a606809adbc03e0"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/getting-started-with-hawk-js-6849761d8f816623.js",
+            "size": 14115,
+            "hash": "17b0e046a2a76ebec6c2a9615b00866ca5132aaf021362aca10c3a6d7cbf992d"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/hawk-js-configuration-settings-guide-ed767aba15db89ef.js",
+            "size": 19789,
+            "hash": "917b6278cf24e8f370fe90ec25c11adcbe610ec591f253821d24c3edb0100e8c"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/hawk-js-demonstration-repository-6f918c295a2550c4.js",
+            "size": 12679,
+            "hash": "4f5cc36dd72c66d63fd7bc95bcf45a42b733cd10358493bdc99e97c060bfb614"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/index-74929a98654f2990.js",
+            "size": 17154,
+            "hash": "3d9de567d30701ecb9da231b4129812c1698354c237cf679802e9f32ee226876"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/obtaining-google-credentials-for-hawk-js-fd0bd0094dc268d3.js",
+            "size": 17894,
+            "hash": "3a632e1e66be2dc9db2876a397c1984e019895c5a6be4f97e394b43649c5fdc6"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/video-cc5fce26c46c35b0.js",
+            "size": 8580,
+            "hash": "be2c02f537ff24c527508ccb3f69fc13704f5bf94f062fe29df4343ca8790065"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/exploring-hawk-js-api-functions/hawk-a107ec351e64e496.js",
+            "size": 22926,
+            "hash": "b4aecafdc1a5f8387aa496a803be41629c2a823b749962b7417ca7384dc8da02"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/exploring-hawk-js-api-functions/hawkstrategy-12b2c315a39e5735.js",
+            "size": 25244,
+            "hash": "86120a91a3c7395f4fc7ec4a4853520ec0fa28c4d04aac17f70d3f358bea4d42"
+        },
+        {
+            "type": "file",
+            "name": "_next/static/chunks/pages/exploring-hawk-js-api-functions/utils-6e068ca9f483f573.js",
+            "size": 29775,
+            "hash": "90cec86938eda9cf05c7cb652c055655901d75bc853ac93f63588875336bf930"
+        }
+    ]
+}

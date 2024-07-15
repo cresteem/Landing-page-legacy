@@ -1,0 +1,1 @@
+function animationHandler(){user_activepostion=getUserpostion(),user_activepostion>12&&(helplink_head.classList.add("help-link-head"),serial_ani_add(helplink_li,".help-links-li"))}window.addEventListener("scroll",animationHandler);

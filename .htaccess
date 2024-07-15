@@ -1,0 +1,18 @@
+RewriteEngine On
+#1-Redirector
+#redirect-home request
+RewriteRule ^home$ / [R=301,L]
+# Redirect URLs with ".html" extension to non-extension URLs
+RewriteRule ^(.+)\.html$ /$1 [R=301,L]
+#2-Handle redirects
+# Existing rule to internally rewrite URLs with ".html" extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*?)/?$ $1.html [L]
+
+RewriteRule ^.*400.*$ /error/400.html [R=301,L]
+ErrorDocument 401 /error/401.html
+ErrorDocument 403 /error/403.html
+ErrorDocument 404 /error/404.html
+Options +Indexes
+IndexOptions FancyIndexing
